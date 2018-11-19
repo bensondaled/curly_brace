@@ -1,8 +1,7 @@
-A matplotlib patch for drawing a curly brace.
+A matplotlib patch for drawing a curly brace. See docstring for usage details.
 
 ![img not found](./example.png)
 
-See docstring for usage details and image below for example.
 
 The history
 -----------
